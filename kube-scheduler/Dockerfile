@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.16.8
+FROM k8s.gcr.io/kube-scheduler:v1.16.4
 MAINTAINER chen13626@126.com
